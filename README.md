@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MREN developer from BANGLADESH</h3>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRYwS5A0rCCfblZi-Tt2sj8U7LzDZ1u6x1g&s" alt="Background Image" style="width:100%; height:auto;"/>
+  <img src="https://i.ibb.co/80L8Mry/Blue-Gaming-Facebook-Cover.png" alt="Background Image" style="width:100%; height:auto;"/>
 </p>
 
 - 🔭 I’m currently working on [MY-PORTFOLIO](https://mhrhabib-dev.vercel.app/)

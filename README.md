@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD HABIBUR RAHMAN HABIB</h1>
 <h3 align="center">A passionate MREN developer from BANGLADESH</h3>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRYwS5A0rCCfblZi-Tt2sj8U7LzDZ1u6x1g&s" alt="Background Image" style="width:100%; height:auto;"/>
+</p>
+
 - 🔭 I’m currently working on [MY-PORTFOLIO](https://mhrhabib-dev.vercel.app/)
 
 - 🌱 I’m currently learning **NEXT.JS**
@@ -67,11 +71,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
-</p>
-
-<h3 align="left">Background Picture:</h3>
-<p align="center">
-  <img src="[URL_OF_YOUR_BACKGROUND_IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRYwS5A0rCCfblZi-Tt2sj8U7LzDZ1u6x1g&s)" alt="Background Image" style="width:100%; height:auto;"/>
 </p>
 
 <p align="center">

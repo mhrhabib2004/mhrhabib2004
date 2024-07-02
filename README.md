@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm MD HABIBUR RAHMAN HABIB</h1>
-<h3 align="center">A passionate MERN developer from BANGLADESH</h3>
+
 
 <p align="center">
   <img src="https://i.ibb.co/80L8Mry/Blue-Gaming-Facebook-Cover.png" alt="Background Image" style="width:100%; height:auto;"/>
 </p>
+<h1 align="center">Hi 👋, I'm MD HABIBUR RAHMAN HABIB</h1>
+<h3 align="center">A passionate MERN developer from BANGLADESH</h3>
+<br/>
+## 👨‍💻 Overview
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [MY-PORTFOLIO](https://mhrhabib-dev.vercel.app/)
 
@@ -15,7 +21,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1cf7P6_CnIoOkkDA5lqZPMWm5vZAmLsYm/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny** <br/>
 
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhrhabib2004&" alt="mhrhabib2004" />

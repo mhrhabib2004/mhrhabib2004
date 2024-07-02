@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm MD HABIBUR RAHMAN HABIB</h1>
 <h3 align="center">A passionate MERN developer from BANGLADESH</h3>
 <br/>
-## 👨‍💻 Overview
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
 
+## 👨‍💻 Overview
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBwOGFidDEwcnN3Y25kaDR4Z3liczJza2d6cjNjdWVnOGhyOHgzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 - 🔭 I’m currently working on [MY-PORTFOLIO](https://mhrhabib-dev.vercel.app/)
 

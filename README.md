@@ -21,6 +21,8 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1cf7P6_CnIoOkkDA5lqZPMWm5vZAmLsYm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny** <br/>
+##  Daily Streak 
+
 
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhrhabib2004&" alt="mhrhabib2004" />
@@ -83,6 +85,14 @@
   </a> 
   
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhrhabib2004&show_icons=true&locale=en&layout=compact" alt="mhrhabib2004" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhrhabib2004&show_icons=true&locale=en" alt="mhrhabib2004" /></p>
+## 👀 Commit Count
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhrhabib2004&show_icons=true&locale=en" alt="mhrhabib2004" /></p>
+
+## ⚡  Language Used
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhrhabib2004&show_icons=true&locale=en&layout=compact" alt="mhrhabib2004" /></p>
+

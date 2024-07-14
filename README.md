@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/80L8Mry/Blue-Gaming-Facebook-Cover.png" alt="Background Image" style="width:100%; height:auto;"/>
 </p>
 <h1 align="center">Hi 👋, I'm MD HABIBUR RAHMAN HABIB</h1>
-<h3 align="center">A passionate MERN developer from BANGLADESH</h3>
+<h3 align="center">A passionate MERN Stack Web Developer from BANGLADESH</h3>
 <br/>
 
 ## 👨‍💻 Overview

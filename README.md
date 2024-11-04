@@ -8,6 +8,9 @@
 
 [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://mhrhabib-dev.vercel.app/)](https://mhrhabib-dev.vercel.app/) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://drive.google.com/file/d/12zGOgDHFdrpvLyqY3HTh1AawhJF41V7T/view?usp=sharing)](https://drive.google.com/file/d/12zGOgDHFdrpvLyqY3HTh1AawhJF41V7T/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm MD HABIBUR RAHMAN HABIB</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&random=true&width=435&lines=I+am+passionate+web+developer+from+BD;I+am+MERN+stack+developer+from+BD;I+am+junior+front+end+developer)](https://git.io/typing-svg)
+
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
 to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
 <br/>

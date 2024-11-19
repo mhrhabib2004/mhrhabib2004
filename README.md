@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&random=true&width=435&lines=I+am+passionate+web+developer+from+BD;I+am+MERN+stack+developer+from+BD;I+am+junior+front+end+developer)](https://git.io/typing-svg)
 
-<h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
+<h4 align="center"> I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
 to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
 <br/>
 

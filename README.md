@@ -20,7 +20,7 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 - 🔭 I’m currently working on [MY-PORTFOLIO](https://mhrhabib-dev.vercel.app/)
 
-- 🌱 I’m currently learning **NEXT.JS,TS**
+- 🌱 I’m currently learning **NEXT.JS,TS,MONGOOSE**
 
 - 👨‍💻 All of my projects are available at [mhrhabib-dev](https://mhrhabib-dev.vercel.app/)
 
